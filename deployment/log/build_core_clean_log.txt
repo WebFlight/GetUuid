@@ -1,0 +1,9 @@
+Buildfile: C:\Users\Jaap van Leeuwen\Documents\Mendix\GetUuid-main\deployment\build_core.xml
+
+clean:
+   [delete] Deleting directory C:\Users\Jaap van Leeuwen\Documents\Mendix\GetUuid-main\deployment\model
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
