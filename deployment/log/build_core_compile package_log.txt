@@ -1,0 +1,12 @@
+Buildfile: C:\Users\Jaap van Leeuwen\Documents\Mendix\GetUuid-main\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 1 source file to C:\Users\Jaap van Leeuwen\Documents\Mendix\GetUuid-main\deployment\run\bin
+
+package:
+      [jar] Building jar: C:\Users\Jaap van Leeuwen\Documents\Mendix\GetUuid-main\deployment\model\bundles\project.jar
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
